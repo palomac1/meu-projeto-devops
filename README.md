@@ -1,9 +1,6 @@
 # 🚀 Meu Projeto DevOps
 
-[![CI](https://github.com)](https://github.com)
-![Docker](https://shields.io)
-![GitHub Actions](https://shields.io)
-![Linux](https://shields.io)
+[![CI](https://github.com/palomac1/meu-projeto-devops/actions/workflows/ci.yml/badge.svg)](https://github.com/palomac1/meu-projeto-devops/actions/workflows/ci.yml)
 
 Projeto prático desenvolvido durante o **Bootcamp DevOps Matera 2026**, cobrindo desde a automação de build e testes via Shell Script até conteinerização com Docker e Integração Contínua (CI) com GitHub Actions.
 
