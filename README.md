@@ -1,3 +1,4 @@
+[![CI](https://github.com/palomac1/meu-projeto-devops/actions/workflows/ci.yml/badge.svg)](https://github.com/palomac1/meu-projeto-devops/actions/workflows/ci.yml)
 
 # Meu Projeto DevOps
 
